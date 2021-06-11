@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Primarily working on getting expert status in the .NET ecosystem.
+
+
 <!--
 **nevind7/nevind7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
