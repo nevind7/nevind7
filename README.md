@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Primarily working on getting expert status in the .NET ecosystem.
+I do C#
 
 
 <!--
